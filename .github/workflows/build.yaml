@@ -6,7 +6,9 @@ on:
       - "main"
 
 env:
-  DOCKERHUB_USERNAME: lyzhang1999
+  DOCKERHUB_USERNAME: xijunlc123
+secrets:
+  DOCKERHUB_TOKEN: dckr_pat_dMMfzXc0IEtmwWfYazmmOPWzYWY
 
 jobs:
   docker:
