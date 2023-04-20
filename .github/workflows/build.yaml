@@ -7,8 +7,6 @@ on:
 
 env:
   DOCKERHUB_USERNAME: xijunlc123
-secrets:
-  DOCKERHUB_TOKEN: dckr_pat_dMMfzXc0IEtmwWfYazmmOPWzYWY
 
 jobs:
   docker:
